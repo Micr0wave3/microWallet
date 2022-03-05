@@ -10,3 +10,17 @@ Renders below
 ![alt text](https://github.com/Micr0wave3/microWallet/blob/main/renders/3.png?raw=true)
 
 Pictures below
+
+![alt text](https://github.com/Micr0wave3/microWallet/blob/main/pictures/IMG_2931.jpg?raw=true)
+
+![alt text](https://github.com/Micr0wave3/microWallet/blob/main/pictures/IMG_2932.jpg?raw=true)
+
+![alt text](https://github.com/Micr0wave3/microWallet/blob/main/pictures/IMG_2933.jpg?raw=true)
+
+![alt text](https://github.com/Micr0wave3/microWallet/blob/main/pictures/IMG_2934.jpg?raw=true)
+
+![alt text](https://github.com/Micr0wave3/microWallet/blob/main/pictures/IMG_2935.jpg?raw=true)
+
+![alt text](https://github.com/Micr0wave3/microWallet/blob/main/pictures/IMG_2936.jpg?raw=true)
+
+![alt text](https://github.com/Micr0wave3/microWallet/blob/main/pictures/IMG_2937.jpg?raw=true)

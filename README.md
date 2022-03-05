@@ -10,5 +10,3 @@ Renders below
 ![alt text](https://github.com/Micr0wave3/microWallet/blob/main/renders/3.png?raw=true)
 
 Pictures below
-
-![alt text](https://github.com/Micr0wave3/concealZippo/blob/main/renders/zippo_carry_front.png?raw=true)

@@ -3,11 +3,11 @@ Its like the ridge wallet, but you don't need to pay 100$ to carry your cards. O
 
 Renders below
 
-![alt text](https://github.com/Micr0wave3/concealZippo/blob/main/renders/1.png?raw=true)
+![alt text](https://github.com/Micr0wave3/microWallet/blob/main/renders/1.png?raw=true)
 
-![alt text](https://github.com/Micr0wave3/concealZippo/blob/main/renders/2.png?raw=true)
+![alt text](https://github.com/Micr0wave3/microWallet/blob/main/renders/2.png?raw=true)
 
-![alt text](https://github.com/Micr0wave3/concealZippo/blob/main/renders/3.png?raw=true)
+![alt text](https://github.com/Micr0wave3/microWallet/blob/main/renders/3.png?raw=true)
 
 Pictures below
 
